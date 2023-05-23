@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-radial-blue {
+background: radial-gradient(circle, #2b3760, #0b1023);
+}
+.bg-radial-brown {
+background: radial-gradient(circle, #4e3022, #161616);
+}
+.bg-radial-red {
+background: radial-gradient(circle, #753d3d, #161616);
+}
